@@ -261,7 +261,7 @@ export default function Home() {
               setScores([]);
             }}
           >
-            最初から始める
+            New Game
           </button>
         </div>
       </main>
